@@ -29,8 +29,9 @@ Cost-based price discrimination helps sellers to optimize margins
 - The size of the per-unit price discount should be lower if the economic or psychological cost of an out of stock situation are high
 
 Paper Tower Example
+
 | First Header  | Margins | Unit Margins | Unit Margins | Break Even | 
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | 4 pack  | $1  | 0.25 | 0.25 | 0.25 | 
 | 8 pack  | $2  | 0.25 | 0.25 * 1.2 = 0.3 | 1.2X = 0.25 |
 
