@@ -71,4 +71,9 @@ How do we get demand?
 - Almost all CPG firm subscribe to scanner data services
 
 ## Example
-
+Senario:
+![image](/pic/se.png)
+Building demand function:
+![image](/pic/demand_function.png)
+![image](/pic/demand_function2.png)
+![image](/pic/demand_function3.png)
