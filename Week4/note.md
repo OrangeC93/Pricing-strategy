@@ -31,3 +31,53 @@ CLV = the discounted sum of all future customer revenue streams - product, servi
 ![image](/pic/clv_eg3.png)
 ![image](/pic/clv_eg4.png)
 
+
+## Purchase occasion probabilities
+![image](/pic/purchase_occasion_probability.png)
+- customer segmantation: most valued(reward), second tier(grow)
+
+Early segmentation is possible
+- size of the first order
+- early subsequent orders
+- zip code (economic status)
+
+Challenges with CLV
+- Go far back into the data to get the accurate purchase occasion probabilites
+- New customers may behave differently than old customers and you're using historical data
+
+## Pricing methods
+Marginal cost = chagne in cost/change in quantity
+
+Marginal cost pricing:
+- marginal cost $40  + markup% 20% = selling price $48
+
+When to use:
+- Fill unsued capacity
+- Add to revenue to profits
+- Enter a market or create chances for cross-selling
+
+## Marginal cost pricing example
+![image](/pic/airline_eg.png)
+
+## Peak load pricing
+uber example: bring market back into equilibrium by balancing supply and demand
+- riders: choose alternative transportation
+- driver: incentive
+
+
+when does it makes sense to use?
+- goods and services that cannot be stored
+- capacity is constrained
+- demand is volatile
+- congestion leads to unwanted consequences
+
+eg: mail delievery, electric power
+
+## Index based pricing
+![image](/pic/arm_eg.png)
+when to use
+- long term contracts
+- low margin business
+- cost structure dominated by few big cost items
+- cost is volatile
+
